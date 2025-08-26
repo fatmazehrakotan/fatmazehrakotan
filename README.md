@@ -5,9 +5,9 @@
 
 
 
-/*- 🔭 I’m currently working on **C++** */
+<!-- - 🔭 I’m currently working on **C++** -->
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **fatmazehrakotan98@gmail.com**
 
