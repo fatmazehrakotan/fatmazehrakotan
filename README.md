@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **React Native**
+/*- 🔭 I’m currently working on **C++** */
 
 - 🌱 I’m currently learning **Java**
 
